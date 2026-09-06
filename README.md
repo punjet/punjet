@@ -1,26 +1,12 @@
-# ⚡ AI-Native Builder / Engineer
+# ⚡ AI-Native Systems Builder
+I don't treat LLMs as an autocomplete plugin, and I don’t spend hours hand-crafting boilerplate.
+Code has become a commodity; system design, edge-case analysis, and verification are where the actual engineering happens. I build by directing models, pressure-testing outputs, and shipping production-grade architecture at a pace legacy workflows can't touch.
 
-While the previous generation spent years memorizing syntax, debugging semi-colons, and reading documentation end-to-end, my engineering DNA formed when LLMs turned code into raw clay.
-
-I didn't transition to AI to speed up my typing. I am **AI-native from Day One**.
-
----
-
-### What "AI-Native from Day One" Means
-
-* **High-Level Abstraction as a Baseline:** Syntax is no longer a moat. My primary programming interface has always been systems architecture, domain logic, and problem framing. Code is simply the compilation target.
-* **Orchestration Over Keystrokes:** Instead of getting bogged down in boilerplate, I steer autonomous agents, design feedback loops, and stress-test failure modes. I don't write line by line—I direct and verify.
-* **Radical Velocity:** Building software is an iterative dialogue between human judgment and machine leverage. Prototypes go live in hours; production-ready systems ship in days, not quarters.
-* **Zero Legacy Baggage:** I don't miss "the old way" because I never had to rely on it. I don't treat AI as a fancy autocomplete plugin—it is the foundation of my development environment.
-
----
-
-### The Operating Model
-
-| Dimension | Approach |
-| :--- | :--- |
-| **Mindset** | Systems over syntax. Architecture, edge cases, and leverage belong to me; implementation speed belongs to AI. |
-| **Velocity** | Autonomous agents, rapid prototyping, continuous verification, zero bureaucratic drag. |
-| **Stack** | Completely agnostic. Tools exist to eliminate bottlenecks, not satisfy dogma. The stack bends to the problem. |
-
-> *I don't identify with a single framework, language, or era of tooling. I identify with shipping outcomes.*
+How I Work
+Architecture First, Syntax Second: Syntax isn't a moat anymore. My focus stays on data flow, state management, failure modes, and security. Code is just the execution layer.
+Verification over Typing: Generating code is trivial; ensuring it doesn't break in production isn't. I design tight feedback loops, automated test harnesses, and eval frameworks to keep outputs strictly reliable.
+Aggressive Velocity: MVPs in days, hardened production services in weeks. I cut bureaucratic drag and eliminate slow typing loops without compromising technical debt.
+Stack Agnostic: I don't form emotional attachments to frameworks. The stack serves the product, not the other way around.
+The Contrast
+FocusTraditional EngineeringMy Operating ModelBottleneckWriting lines of code & syntax checksProblem framing & failure-mode auditingToolingIDE as a text editorIDE as an agent orchestrator & eval harnessOutputHours spent writing boilerplateVelocity spent solving domain complexity
+I don't measure engineering skill in keystrokes. I measure it in resilient systems shipped to users. 
